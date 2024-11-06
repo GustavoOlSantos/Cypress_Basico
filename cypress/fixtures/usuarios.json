@@ -1,0 +1,41 @@
+{
+    "usuarios": [
+        {
+            "name": "Sonic the Hedgehog",
+            "email": "sonic@alura.com.br",
+            "password": "Senha123"
+          },
+          {
+            "name": "Tails Prower",
+            "email": "tails@alura.com.br",
+            "password": "Senha123"
+          },
+          {
+            "name": "Knuckles the Echidna",
+            "email": "knuckles@alura.com.br",
+            "password": "Senha123"
+          },
+          {
+            "name": "Amy Rose",
+            "email": "amy.rose@alura.com.br",
+            "password": "Senha123"
+          },
+          {
+            "name": "Dr. Ivo Robotnik",
+            "email": "robotnik@alura.com.br",
+            "password": "Senha123"
+          },
+          {
+            "name": "Shadow the Hedgehog",
+            "email": "shadow@alura.com.br",
+            "password": "Senha123"
+          },
+          {
+            "name": "Rouge the Bat",
+            "email": "rouge@alura.com.br",
+            "password": "Senha123"
+          }
+    ]
+
+
+}
